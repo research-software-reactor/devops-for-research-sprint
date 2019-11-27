@@ -9,7 +9,7 @@ assignees:
 
 <!--
 Please document the following for your project proposal.
-Make sure to replace the  `Lorem impsum` text in the description
+Make sure to replace the  `Lorem ipsum` text in the description
 -->
 
 # Project Proposal
