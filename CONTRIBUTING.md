@@ -43,7 +43,6 @@ The following are examples of inclusive actions that we encourage from contribut
 - All disciplines are welcome so we try to refer to "open research" rather than "open science" so that we do not exclude members of the humanities and social sciences from our community.
 - This space and project is for all folks interested in making research more reproducible and research software more robust, sustainable, and better. Thus everyone is welcome regardless of their official title and institution affilation.
 
-
 ## Get in touch
 
 - Join the discussion in our [issues][reactor-issues] and [pull requests][reactor-pr].
@@ -71,7 +70,6 @@ For example you could write words as **bold** (`**bold**`), or in _italics_ (`_i
 
 Also when writing in Markdown, please start each new sentence on a new line.	
 While this formats in the same way as if the new line wasn't included, it makes the [diffs produced during the pull request](https://help.github.com/en/articles/about-comparing-branches-in-pull-requests) review easier to read! :sparkles:
-
 
 ## Where to start: issues
 
@@ -222,7 +220,6 @@ Finally, don't forget to add yourself to the list of contributors [here](https:/
 ---
 
 _These Contributing Guidelines have been adapted from the [Contributing Guidelines](https://github.com/bids-standard/bids-starter-kit/blob/master/CONTRIBUTING.md) of the [BIDS Starter Kit](https://github.com/bids-standard/bids-starter-kit)!  and [the Turing Way project](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)(License: CC-BY)_
-
 
 [reactor-repo]: https://github.com/research-software-reactor/research-software-reactor.github.io
 [git]: https://git-scm.com

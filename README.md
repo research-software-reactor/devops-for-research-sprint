@@ -4,8 +4,8 @@
 
 <table width='100%' align="center">
     <tr>
-        <td align='left' width='100%' colspan='2'>
-            <h1 style="color:#7158e2"> CI/CD for research </h1>
+        <td align='center' width='100%' colspan='2'>
+            <h1> CI/CD for research </h1>
             <br />
             The Alan Turing Institute, January 9-10th 2010.
             <br />
@@ -22,14 +22,11 @@
                 <img src='https://img.shields.io/badge/📃-CODE%20OF%20CONDUCT-gray.svg?colorA=2D2A56&colorB=7158e2&style=flat' width='130' />
             </a>
         </td>
-    </tr>
-    
+    </tr>        
 </table>
 
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-949AC2.svg)](https://opensource.org/licenses/BSD-3-Clause)
-[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
-
-
+ [![License](https://img.shields.io/badge/License-BSD%203--Clause-949AC2.svg?colorA=2D2A56&colorB=949AC2&style=flat)](https://opensource.org/licenses/BSD-3-Clause)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg?colorA=2D2A56&colorB=54a0ff&style=flat)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Proposing a new project to work on
 
@@ -47,3 +44,5 @@ The Research Software Reactos community makes all of their materials publicly av
 
 The process documents and data are made available under a CC-BY license.
 Software are made available under an BSD 3 clause license.
+
+
