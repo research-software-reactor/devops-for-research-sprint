@@ -39,15 +39,17 @@ Tag any members that have expressed interested, or update list with any names fr
 A short bullet point list will suffice, we simply need to understand the scope of what the project will do.
 -->
 
-* Lorem impsum
-* Lorem impsum
-* Lorem impsum
+* Lorem ipsum
+* Lorem ipsum
+* Lorem ipsum
+* Lorem ipsum
 
 ## Skills required
 <!-- List any skills that might be useful for the development of the project, this will also help folks to find projects to work on -->
-* Lorem impsum
-* Lorem impsum
-* Lorem impsum
+* Lorem ipsum
+* Lorem ipsum
+* Lorem ipsum
+* Lorem ipsum
 
 ## Is there anything else relevant to the scope of this project?
 
