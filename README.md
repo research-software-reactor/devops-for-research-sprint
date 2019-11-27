@@ -26,6 +26,11 @@
     
 </table>
 
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-949AC2.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+
+
+
 ## Proposing a new project to work on
 
 1. Head over to this repository's issues <https://github.com/research-software-reactor/devops-for-research-sprint/issues>
@@ -36,3 +41,9 @@
 ## Contributing
 
 Everyone is asked to follow our [code of conduct](ttps://research-software-reactor.github.io/coc) and to checkout our [contributing guidelines](./CONTRIBUTING.md) for more information on how to get started.
+
+## License 
+The Research Software Reactos community makes all of their materials publicly available under open source licenses.
+
+The process documents and data are made available under a CC-BY license.
+Software are made available under an BSD 3 clause license.
