@@ -32,7 +32,7 @@
 
 1. Head over to this repository's issues <https://github.com/research-software-reactor/devops-for-research-sprint/issues>
 2. Create a new issue using the new project template, make sure to fill in the whole template and provide as much information as possible.
-3. Make sure to add the ![project proposal 📃](https://img.shields.io/badge/-project%20proposal%20📃-cba1d2.svg) label to the issue.
+3. Make sure that the ![project proposal 📃](https://img.shields.io/badge/-project%20proposal%20📃-cba1d2.svg) label has been added to the issue.
 4. Give a 2 minutes pitch on the day - no slides required, just an overview of the project is needed
 
 ## Contributing
@@ -40,9 +40,7 @@
 Everyone is asked to follow our [code of conduct](ttps://research-software-reactor.github.io/coc) and to checkout our [contributing guidelines](./CONTRIBUTING.md) for more information on how to get started.
 
 ## License 
-The Research Software Reactos community makes all of their materials publicly available under open source licenses.
+The Research Software Reactor community makes all of their materials publicly available under open source licenses.
 
 The process documents and data are made available under a CC-BY license.
 Software are made available under an BSD 3 clause license.
-
-
