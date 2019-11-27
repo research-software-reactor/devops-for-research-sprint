@@ -22,8 +22,8 @@ If you have any questions that aren't discussed below, please let us know.
   - [Where to start: issues](#where-to-start-issues)
     - [Issues labels](#issues-labels)
   - [Making a change with a pull request](#making-a-change-with-a-pull-request)
-    - [1. Comment on an [existing issue][reactor-issue] or open a new issue referencing your addition](#1-comment-on-an-existing-issuereactor-issue-or-open-a-new-issue-referencing-your-addition)
-    - [2. [Fork][github-fork] the [project's repository][reactor-repo] to your profile](#2-forkgithub-fork-the-projects-repositoryreactor-repo-to-your-profile)
+    - [1. Comment on an [existing issue][devops-issues] or open a new issue referencing your addition](#1-comment-on-an-existing-issuedevops-issues-or-open-a-new-issue-referencing-your-addition)
+    - [2. [Fork][github-fork] the [project's repository][devops-repo] to your profile](#2-forkgithub-fork-the-projects-repositorydevops-repo-to-your-profile)
     - [3. Make the changes you've discussed](#3-make-the-changes-youve-discussed)
     - [4. Submit a [pull request][github-pullrequest]](#4-submit-a-pull-requestgithub-pullrequest)
   - [Recognising Contributions](#recognising-contributions)
@@ -101,7 +101,7 @@ The list of labels for current issues in this repository can be found [here][dev
 - ![question ❔](https://img.shields.io/badge/-question%20❔-ffc46b.svg) _These issues contain a question that you'd like to have answered._
   
   There are lots of ways to ask questions but opening an issue is a great way to start a conversation and get your answer.
-- ![working-on 🙇🏻‍♀️](https://img.shields.io/badge/-working%2on%20🙇🏻‍♀️-ab72c0.svg) _These issues are actively being worked on_
+- ![working-on 🙇🏻‍♀️](https://img.shields.io/badge/-working%20on%20🙇-ab72c0.svg) _These issues are actively being worked on_
   
   This label is great to identify items you are working on so that we do not stop over each others' toes. As soon as you decide to work on an item assign this label.
 - ![write-up 📝](https://img.shields.io/badge/-write%20up%20-00bdaa.svg) _These items relate to written outputs of the events_.
@@ -123,16 +123,18 @@ All project management, conversations and questions related to The Research Soft
 
 The following steps are a guide to help you contribute in a way that will be easy for everyone to review and accept with ease :sunglasses:.
 
-### 1. Comment on an [existing issue][reactor-issue] or open a new issue referencing your addition
+### 1. Comment on an [existing issue][devops-issues] or open a new issue referencing your addition
 
 This allows other members the team to confirm that you aren't overlapping with work that's currently underway and that everyone is on the same page with the goal of the work you're going to carry out.
 
 [This blog](https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/) is a nice explanation of why putting this work in up front is so useful to everyone involved.
 
 Remember, if you open a new issue, please follow our basic guidelines laid out in our [issue-template].
-The issue template will automatically be r whatsendered in the comment section of the new issue page so all you need to do is edit the "_Lorem ipsum_" sections.
+The issue template will automatically be rendered in the comment section of the new issue page so all you need to do is edit the "_Lorem ipsum_" sections.
 
-### 2. [Fork][github-fork] the [project's repository][reactor-repo] to your profile
+As soon as you take on a item make sure to add the ![working-on 🙇🏻‍♀️](https://img.shields.io/badge/-working%20on%20🙇-ab72c0.svg) label to mark your activity. 
+
+### 2. [Fork][github-fork] the [project's repository][devops-repo] to your profile
 
 This is now your own unique copy of the project.
 Changes here won't affect anyone else's work, so it's a safe space to explore edits to the code!
@@ -241,3 +243,4 @@ _These Contributing Guidelines have been adapted from the [Contributing Guidelin
 [reactor-issues]: https://github.com/research-software-reactor/research-software-reactor.github.io/issues
 [reactor-pr]: https://github.com/research-software-reactor/research-software-reactor.github.io/pulls
 [devops-issues]: https://github.com/research-software-reactor/devops-for-research-sprint/issues
+[devops-repo]: https://github.com/research-software-reactor/devops-for-research-sprint/
