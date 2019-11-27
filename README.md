@@ -7,7 +7,7 @@
         <td align='center' width='100%' colspan='2'>
             <h1> CI/CD for research </h1>
             <br />
-            The Alan Turing Institute, January 9-10th 2010.
+            The Alan Turing Institute, January 9-10th 2020.
             <br />
             <br />
             An event focused on exploring and developing tools to improve research software through DevOps practises and tools.
